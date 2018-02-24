@@ -1,0 +1,4 @@
+Up Down Left Right J L K 
+W S A D V N B 
+5
+1

@@ -1,0 +1,8 @@
+Fonts:
+	SpaceMono-Regular 	-> All
+	SpaceMono-Bold		-> Title
+	Oswald-Regular		-> Score
+Colors:	
+	Foreground			-> ( 41,  47,  54)
+	Foreground Shadow 	-> ( 78, 205, 196)
+	Background 			-> (247, 255, 247)

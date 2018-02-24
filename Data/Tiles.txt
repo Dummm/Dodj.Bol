@@ -1,0 +1,4 @@
+Images\\Tiles.png
+32 16
+64 1
+0

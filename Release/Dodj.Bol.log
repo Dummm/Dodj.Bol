@@ -1,0 +1,94 @@
+﻿  stdafx.cpp
+  Ball.cpp
+Ball.cpp(58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Ball.cpp(65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Ball.cpp(71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Ball.cpp(78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Ball.cpp(137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Ball.cpp(141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Ball.cpp(151): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Ball.cpp(161): warning C4018: '>=': signed/unsigned mismatch
+Ball.cpp(169): warning C4267: 'argument': conversion from 'size_t' to 'sf::Uint8', possible loss of data
+Ball.cpp(192): warning C4305: '=': truncation from 'double' to 'float'
+Ball.cpp(234): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Ball.cpp(242): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Ball.cpp(243): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Ball.cpp(310): warning C4018: '<': signed/unsigned mismatch
+Ball.cpp(298): warning C4101: 'angle': unreferenced local variable
+Ball.cpp(329): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Ball.cpp(330): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Game.cpp
+Game.cpp(38): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  GameObject.cpp
+GameObject.cpp(32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GamePlay.cpp
+GamePlay.cpp(95): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+GamePlay.cpp(207): warning C4018: '>': signed/unsigned mismatch
+  GamePlayOptions.cpp
+GamePlayOptions.cpp(146): warning C4018: '<': signed/unsigned mismatch
+GamePlayOptions.cpp(161): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+GamePlayOptions.cpp(161): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+GamePlayOptions.cpp(162): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+GamePlayOptions.cpp(162): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+GamePlayOptions.cpp(163): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+GamePlayOptions.cpp(164): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+GamePlayOptions.cpp(175): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+GamePlayOptions.cpp(185): warning C4018: '<': signed/unsigned mismatch
+GamePlayOptions.cpp(226): warning C4018: '<': signed/unsigned mismatch
+GamePlayOptions.cpp(227): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameplaySettings.cpp
+GameplaySettings.cpp(66): warning C4018: '<': signed/unsigned mismatch
+GameplaySettings.cpp(68): warning C4018: '<': signed/unsigned mismatch
+GameplaySettings.cpp(70): warning C4018: '<': signed/unsigned mismatch
+GameplaySettings.cpp(72): warning C4018: '<': signed/unsigned mismatch
+  GameSettings.cpp
+GameSettings.cpp(21): warning C4018: '<': signed/unsigned mismatch
+GameSettings.cpp(23): warning C4018: '<': signed/unsigned mismatch
+GameSettings.cpp(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameSettings.cpp(47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+GameSettings.cpp(48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  MainMenu.cpp
+MainMenu.cpp(99): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+MainMenu.cpp(100): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+MainMenu.cpp(101): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+MainMenu.cpp(102): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+MainMenu.cpp(103): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+MainMenu.cpp(104): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+MainMenu.cpp(105): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+MainMenu.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MultiplayerMenu.cpp
+MultiplayerMenu.cpp(75): warning C4018: '<': signed/unsigned mismatch
+MultiplayerMenu.cpp(78): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+MultiplayerMenu.cpp(87): warning C4018: '<': signed/unsigned mismatch
+MultiplayerMenu.cpp(107): warning C4018: '<': signed/unsigned mismatch
+MultiplayerMenu.cpp(108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Options.cpp
+Options.cpp(87): warning C4018: '<': signed/unsigned mismatch
+Options.cpp(90): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Options.cpp(99): warning C4018: '<': signed/unsigned mismatch
+Options.cpp(119): warning C4018: '<': signed/unsigned mismatch
+Options.cpp(120): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+Player.cpp(88): warning C4244: 'argument': conversion from 'float' to '::size_t', possible loss of data
+Player.cpp(94): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Player.cpp(99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Scoreboard.cpp
+Scoreboard.cpp(48): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+Scoreboard.cpp(49): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+Scoreboard.cpp(50): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+Scoreboard.cpp(51): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+Scoreboard.cpp(96): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Scoreboard.cpp(116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Source.cpp
+  Tiles.cpp
+Tiles.cpp(30): warning C4101: 'e': unreferenced local variable
+Tiles.cpp(55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+f:\sfml\dodj.bol v4\dodj.bol\gameobject.cpp(88): warning C4172: returning address of local variable or temporary
+f:\sfml\dodj.bol v4\dodj.bol\gameplaysettings.cpp(218): warning C4715: 'GameplaySettings::StringToKey': not all control paths return a value
+f:\sfml\dodj.bol v4\dodj.bol\gameplaysettings.cpp(327): warning C4715: 'GameplaySettings::KeyToString': not all control paths return a value
+  All 1552 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Dodj.Bol.vcxproj -> F:\SFML\Dodj.Bol v4\Release\Dodj.Bol.exe

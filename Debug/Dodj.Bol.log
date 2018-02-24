@@ -1,0 +1,58 @@
+﻿  Source.cpp
+  Scoreboard.cpp
+f:\sfml\dodj.bol v4\dodj.bol\scoreboard.cpp(48): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\scoreboard.cpp(49): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\scoreboard.cpp(50): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\scoreboard.cpp(51): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\scoreboard.cpp(96): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\scoreboard.cpp(116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+f:\sfml\dodj.bol v4\dodj.bol\player.cpp(88): warning C4244: 'argument': conversion from 'float' to 'std::size_t', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\player.cpp(94): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\player.cpp(99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\player.cpp(113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\player.cpp(121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  MainMenu.cpp
+f:\sfml\dodj.bol v4\dodj.bol\mainmenu.cpp(98): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\mainmenu.cpp(99): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\mainmenu.cpp(100): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\mainmenu.cpp(101): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\mainmenu.cpp(102): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\mainmenu.cpp(103): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\mainmenu.cpp(104): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\mainmenu.cpp(134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+f:\sfml\dodj.bol v4\dodj.bol\game.cpp(38): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  Compiling...
+  Options.cpp
+f:\sfml\dodj.bol v4\dodj.bol\options.cpp(87): warning C4018: '<': signed/unsigned mismatch
+f:\sfml\dodj.bol v4\dodj.bol\options.cpp(90): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\options.cpp(99): warning C4018: '<': signed/unsigned mismatch
+f:\sfml\dodj.bol v4\dodj.bol\options.cpp(119): warning C4018: '<': signed/unsigned mismatch
+f:\sfml\dodj.bol v4\dodj.bol\options.cpp(120): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameplaySettings.cpp
+f:\sfml\dodj.bol v4\dodj.bol\gameplaysettings.cpp(66): warning C4018: '<': signed/unsigned mismatch
+f:\sfml\dodj.bol v4\dodj.bol\gameplaysettings.cpp(68): warning C4018: '<': signed/unsigned mismatch
+f:\sfml\dodj.bol v4\dodj.bol\gameplaysettings.cpp(70): warning C4018: '<': signed/unsigned mismatch
+f:\sfml\dodj.bol v4\dodj.bol\gameplaysettings.cpp(72): warning C4018: '<': signed/unsigned mismatch
+  GamePlayOptions.cpp
+f:\sfml\dodj.bol v4\dodj.bol\gameplayoptions.cpp(146): warning C4018: '<': signed/unsigned mismatch
+f:\sfml\dodj.bol v4\dodj.bol\gameplayoptions.cpp(161): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\gameplayoptions.cpp(161): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\gameplayoptions.cpp(162): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\gameplayoptions.cpp(162): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\gameplayoptions.cpp(163): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\gameplayoptions.cpp(164): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\gameplayoptions.cpp(175): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\gameplayoptions.cpp(185): warning C4018: '<': signed/unsigned mismatch
+f:\sfml\dodj.bol v4\dodj.bol\gameplayoptions.cpp(226): warning C4018: '<': signed/unsigned mismatch
+f:\sfml\dodj.bol v4\dodj.bol\gameplayoptions.cpp(227): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GamePlay.cpp
+f:\sfml\dodj.bol v4\dodj.bol\gameplay.cpp(94): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\sfml\dodj.bol v4\dodj.bol\gameplay.cpp(206): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+f:\sfml\dodj.bol v4\dodj.bol\gameplaysettings.cpp(327): warning C4715: 'GameplaySettings::KeyToString': not all control paths return a value
+f:\sfml\dodj.bol v4\dodj.bol\gameplaysettings.cpp(218): warning C4715: 'GameplaySettings::StringToKey': not all control paths return a value
+  Dodj.Bol.vcxproj -> F:\SFML\Dodj.Bol v4\Debug\Dodj.Bol.exe
+  Dodj.Bol.vcxproj -> F:\SFML\Dodj.Bol v4\Debug\Dodj.Bol.pdb (Partial PDB)

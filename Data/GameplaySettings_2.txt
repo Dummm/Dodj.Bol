@@ -1,0 +1,4 @@
+Up Down Left Right Comma Period Slash
+W S A D Q E F
+0
+0

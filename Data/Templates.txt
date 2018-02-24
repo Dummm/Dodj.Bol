@@ -1,0 +1,24 @@
+// TEXT FILES TEMPLATES
+
+// Tiles.txt
+
+Image Location
+# of tiles, width
+# of tiles, height
+Size of a tile (Square)
+Type of tilemap (Single tile = 0 / Multiple tiles = 1)
+Tiles with coordinates to their sprites
+
+// Settings.txt
+
+Fullscreen
+Resolution (width)
+Resolution (height)
+Antialiasing
+Vsync
+
+// GameplaySettings.txt Player1 = Left; Player2 = Right;
+(Player1) Up Down Left Right RefLeft RefRight Action
+(Player2) Up Down Left Right RefLeft RefRight Action
+(Player1) Texture #
+(Player2) Texture #
